@@ -54,7 +54,7 @@ var persona = {
 const NUMERO_PI = 3.14;
 console.log(NUMERO_PI);
 
-var a1='Jose Luis';
+var a1='Diana';
 // string ocn comillas invertidas
 var s1=`Hola soy ${a1}
 como estas?`;
